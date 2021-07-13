@@ -5,6 +5,7 @@
 
 .body {
   height: auto;
+  transform: rotate(90 deg);
 }
 
 .btn-container {
@@ -71,7 +72,7 @@ h1 {
 
   .cityValues {
     margin-top: 1700px;
-    color: white;
+    color: black;
     font-size: 25px;
   }
 
